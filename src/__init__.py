@@ -1,0 +1,1 @@
+"""Source code for the Airbnb price prediction project."""
